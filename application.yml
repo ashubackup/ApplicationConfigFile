@@ -1,2 +1,6 @@
 server:
-  port: 2930
+  port: 2931
+
+spring:
+  application:
+    name: TestApplication
